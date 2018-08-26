@@ -1,5 +1,6 @@
 import math
 
+
 elps = math.exp(-10)
 
 def func(x):
